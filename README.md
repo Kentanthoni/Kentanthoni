@@ -14,6 +14,25 @@
 
 ---
 
+## 💻 Tech Stack
+Here’s a visual representation of my technical skills:  
+
+### 🚀 Programming Languages & Web Technologies  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
+
+### ⚡ Frameworks & Libraries  
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB)  ![React Native](https://img.shields.io/badge/React%20Native-%2320232A.svg?style=flat&logo=react&logoColor=%2361DAFB)  ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)  
+
+### 🛠️ Backend & Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white)  
+
+### 🔧 DevOps & Version Control  
+![Docker](https://img.shields.io/badge/Docker-%2300C4CC.svg?style=flat&logo=docker&logoColor=white)  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%23288EFC.svg?style=flat&logo=github-actions&logoColor=white)  
+
+---
+
 ## 🛠️ Technical Skills
 🔹 **Web Development:** HTML, CSS, JavaScript, React, Node.js, Next.js, Tailwind.css  
 🔹 **Databases & Backend:** SQL, Docker, Python  
@@ -67,8 +86,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kent_anthoni&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kent_anthoni&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kentanthoni&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kentanthoni&layout=compact&theme=dark)
 
 ---
 
