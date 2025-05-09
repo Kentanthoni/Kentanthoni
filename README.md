@@ -1,4 +1,6 @@
 # 👋 Hi! I'm Kent Anthoni Román García
+### I am a young programmer passionate about technology and software development. My goal is to continuously learn and stand out in the world of programming. I love facing new challenges and collaborating on innovative projects that allow me to grow professionally. 
+### If you want to contact me, you can email me at romankentantoni@gmail.com. I am open to collaboration opportunities and am always willing to learn something new.
 
 ## 🚀 About Me
 🎓 **Telecommunications and Electronics Engineer** - Software Developer  
